@@ -1,0 +1,3 @@
+enum Course {
+    JAVA, PYTHON, JAVASCRIPT, C, DATA_SCIENCE;
+}
