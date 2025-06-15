@@ -46,3 +46,26 @@ class Bed {
         System.out.println(barcode);
     }
 }
+/* Key Concepts Used
+Variable Declaration and Initialization – Demonstrates declaration and assignment of various data types.
+
+Primitive Data Types – Uses all Java primitive types:
+
+int, float, double, boolean, char, byte, short, long
+
+String (Non-Primitive) – Demonstrates usage of a non-primitive String object.
+
+Reassignment of Variables – Values are updated after initialization, showing mutability of variables.
+
+Literal Suffix Usage – Correct use of:
+
+f for float
+
+L for long
+
+Console Output – Uses System.out.println() to display values before and after reassignment.
+
+main() Method – The program starts from the main() method, making it executable.
+
+Basic Java Syntax – Demonstrates correct use of semicolons, naming conventions, and structure.
+*/
