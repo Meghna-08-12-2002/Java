@@ -78,3 +78,11 @@ class Army {
     }
 }
 
+ /*Key Concepts Used
+Constructor Overloading – Multiple constructors with different parameters.
+
+Constructor Chaining – Each constructor calls the next more detailed one using this(...).
+
+Encapsulation – Fields are accessed only within the class.
+
+Clean Testing – ArmyRunner creates and tests 11 variations of Army objects.*/
