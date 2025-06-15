@@ -46,3 +46,22 @@ class Bag {
         System.out.println(barcode);
     }
 }
+/* Key Concepts Used
+Variable Declaration and Initialization – Different data types (String, int, float, double, boolean, char, byte, short, long) are declared and initialized.
+
+Data Type Usage – Demonstrates usage of all primitive data types in Java, plus String (non-primitive).
+
+Reassignment of Variables – Shows how variable values can be updated (e.g., brand = "Dell";).
+
+Type-specific Suffixes – Proper use of:
+
+f for float (e.g., 2499.50f)
+
+L for long (e.g., 987654321012L)
+
+Output with System.out.println() – Used for printing variable values before and after reassignment.
+
+Single Class with main() Method – Everything is written in one class, which serves as the entry point.
+
+Basic Syntax and Semantics – Demonstrates correct use of Java syntax, including semicolons, naming conventions, and statement structure.
+*/
